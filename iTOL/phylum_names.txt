@@ -1,0 +1,13 @@
+DATASET_TEXT
+SEPARATOR COMMA
+DATASET_LABEL,phylum_names
+#COLOR,#ff0000
+MARGIN,20
+ALIGN_TO_TREE,1
+SIZE_FACTOR,100
+DATA
+GCF002210095,Proteobacteria,-1,#bc80bd,normal,1
+GCF000154205,Bacteroidetes,-1,#ebdc0c,normal,1
+GCF000585395,Firmicutes,-1,#fc5b5b,normal,1
+GCF000504285,Actinobacteria,-1,#80b1d3,normal,1
+
